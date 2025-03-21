@@ -10,6 +10,8 @@ Our final model, built on **LLaMA-3.2-3B**, integrates:
 
 Through rigorous experimentation, we refined `rag_updated.py`, evaluating various retrieval and prompting strategies and comparing them with the baseline `rag_baseline.py`. The improved model demonstrates significant gains in accuracy and exact accuracy based on the official **KDD Cup** evaluation metrics.
 
+The dataset used for this project can be found at [AICrowd](https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024/).
+
 ---
 
 ## **Pipeline Overview**
