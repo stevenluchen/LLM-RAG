@@ -61,8 +61,6 @@ The table below compares the **Vanilla Baseline**, the **Initial RAG Baseline**,
 
 ---
 
----
-
 ## **Installation and Setup**
 Follow these steps to set up the environment and run the pipeline.
 
