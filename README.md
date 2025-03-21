@@ -37,7 +37,7 @@ We experimented with different retrieval techniques:
 
 ## **Results and Performance Comparison**
 
-The table below compares the **Vanilla Baseline**, the **Initial RAG Baseline**, and our **New Baseline** in terms of key evaluation metrics.
+The table below compares the **Vanilla Baseline**, the **Initial RAG Baseline**, and our **Updated RAG** in terms of key evaluation metrics.
 
 | **Metric**          | **Vanilla Baseline** | **RAG Baseline** | **Updated RAG** |
 |---------------------|--------------------|-----------------|----------------|
